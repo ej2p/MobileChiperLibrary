@@ -15,7 +15,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/ej2p/MobileChiperLibrary.git", from: "1.0.0")
+    .package(url: "https://github.com/ej2p/MobileChiperLibrary.git", from: "1.0.1")
 ]
 ```
 
@@ -35,7 +35,7 @@ dependencies: [
 `MobileChiperLibrary`를 CocoaPods을 통해 설치하려면, `Podfile`에 다음 내용을 추가하세요:
 
 ```swift
-pod 'MobileLibrary', '~> 1.0.0'
+pod 'MobileLibrary', '~> 1.0.1'
 ```
 
 그런 다음, 터미널에서 pod install 명령어를 실행하여 라이브러리를 설치하세요:
