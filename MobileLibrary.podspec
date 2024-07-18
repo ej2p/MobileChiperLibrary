@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MobileLibrary"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "MobileLibrary는 여러 가지 암호화 알고리즘을 제공하는 Swift 기반 라이브러리입니다."
 
   spec.description  = <<-DESC
